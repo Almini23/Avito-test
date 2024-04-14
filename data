@@ -1,0 +1,107 @@
+minus_1_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": -1,
+                    "energy": -1,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": -1
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
+
+zero_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 0,
+                    "energy": 0,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 0
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
+
+one_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 1,
+                    "energy": 1,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 1
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
+
+handred_1_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 100,
+                    "energy": 100,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 100
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
+
+handred_2_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 999,
+                    "energy": 999,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 999
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
+
+thousand_1_json = {
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 1000,
+                    "energy": 1000,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 1000
+                }
+            }
+        },
+        "isAuthorized": False
+    },
+    "status": "ok"
+}
